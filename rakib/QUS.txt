@@ -1,0 +1,99 @@
+
+a) Write a program to draw Circle using Bresenham's algorithm.
+
+b) Draw concentric circles with the aid of loops using turtle in python.
+c) How to make an Italian flag using turtle_pyhton.
+
+
+A. Draw the circle using midpoint circle algorithm where center pixel is (400, 400) and radius 300 considering the any display resolution (OS provided).
+B. Draw the ellipse using ellipse algorithm where the value of (a,b) = (240, 460) considering the display resolution (OS provided).
+
+
+
+
+Write a program to draw Line using Bresenham's algorithm.
+Write a program to draw Circle using Bresenham's algorithm.
+Write a program to apply scaling and rotation to 2-Dimensional shapes.
+Write a program to draw Ellipse using DDA (Digital Differential Analyzer) algorithm.
+Write a program to apply scaling and rotation to 2-Dimensional shapes.
+Write a program to apply rotation and translation to 2-Dimensional shapes.
+Write a program to apply scaling and translation to 2-Dimensional shapes.
+Write a program to clip the polygon region outside the window using Sutherland-Cohen line clipping.
+Write a program to clip the lines falling outside the window using Cohen Sutherland line clipping.
+Write a program to apply polygon fill for 2-Dimensional shapes.
+
+
+
+
+
+Write a program to convert the color image into the gray image, and the gray image into a binary image using two different values of thresholding. Write another program to draw a binary plot with an average is respected from the background and foreground objects of image.
+Suppose each pixel of an image is represented by 8-bit. Write a program to perform the logarithmic and exponential transformation on the image.
+How to add salt and pepper noise into an image? Write a program to remove salt pepper and Gaussian noise with median and Gaussian filter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Write a C program to draw line using Bresenham’s algorithm.
+
+2. Write a C program to draw Circle using Bresenham’s algorithm.
+
+3. Write a C program to draw Ellipse using Bresenham’s algorithm.
+
+4. Write a program to apply scaling and rotation to 2-Dimensional shapes .
+
+5. Write a program to apply scaling and shearing to 2-Dimensional shapes .
+
+6. Write a program to apply scaling and translation to 2-Dimensional shapes.
+
+7. Write a program to apply translation and rotation to 2-Dimensional shapes.
+
+8. Write a program to apply translation and shearing to 2-Dimensional shapes.
+
+9. Write a program to apply scaling and reflection to 2-Dimensional shapes .
+
+10. Write a program to apply translation and reflection to 2-Dimensional shapes.
+
+11. Write a program to apply rotation and shearing to 2-Dimensional shapes.
+
+12. Write a program to apply rotation and reflection to 2-Dimensional shapes.
+
+13. Write a program to apply composite scaling and rotation to 2-Dimensional shapes.
+
+14. Write a program to apply composite translation and rotation to 2-Dimensional shapes.
+
+15. Write a program to apply composite translation and scaling to 2-Dimensional shapes.
+
+16. Write a program to clip the lines fallen outside the window using cohen Sutherland line clipping.
+
+17. Write a program to clip the polygon region fallen outside the window using Hodgeman Sutherland polygon clipping algorithm.
+
+18. Write a program to apply scaling and rotation to 3-Dimensional shapes .
+
+19. Write a program to apply scaling and translation to 3-Dimensional shapes.
+
+20. Write a program to apply translation and rotation to 3-Dimensional shapes.
+
+21. Write a program to apply composite scaling and rotation to 3-Dimensional shapes.
+
+22. Write a program to apply composite translation and rotation to 3-Dimensional shapes.
+
+23. Write a program to apply composite translation and scaling to 3-Dimensional shapes.
+
+24. Write a program to implement line, circle and ellipse attributes.
+
+25. Write a program to generate fractal images.
+
+
+
